@@ -1,2 +1,2 @@
 # vue-community
-community 
+community 社区
